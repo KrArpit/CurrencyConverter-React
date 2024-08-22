@@ -22,3 +22,8 @@ Through this project, you will learn:
 - How to manage state and effects in functional components.
 - How to fetch and handle API data in React.
 - Basic principles of component-based architecture in React.
+<img width="788" alt="Screenshot 2024-08-22 at 6 46 25 PM" src="https://github.com/user-attachments/assets/b99202c5-1a52-4613-ba92-d507ebfcfa50">
+<img width="788" alt="Screenshot 2024-08-22 at 6 46 43 PM" src="https://github.com/user-attachments/assets/15379e38-d768-4104-8965-dd05679c714b">
+
+
+  
